@@ -2,11 +2,27 @@
 
 ## HTTP Request Handling
 
-  * **httparty**: For API Request
+  For Api Request install **httparty** gem by the following command:
+   ```
+    gem install httparty
+   ```
+  Then, run the task by the following command:
+   ```
+    ruby http_request.rb
+   ```
+
 
 ## Counter Function
 
-  * **rails_helper**: For test cases in RSPEC
+  For test cases in RSPEC install **rails_helper** gem by the following command:
+  ```
+  gem install rails_helper
+  ```
+
+  Then, run the task by the following command:
+   ```
+    ruby counter.rb
+   ```
 
 ## Database Structure
 
